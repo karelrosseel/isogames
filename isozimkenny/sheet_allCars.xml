@@ -1,4 +1,4 @@
-<TextureAtlas imagePath="sheet.png">
+<TextureAtlas imagePath="sheet_allCars.png">
 <SubTexture name="ambulance_E.png" x="139" y="94" width="33" height="29"/>
 <SubTexture name="ambulance_N.png" x="812" y="481" width="19" height="27"/>
 <SubTexture name="ambulance_NE.png" x="0" y="296" width="35" height="31"/>
