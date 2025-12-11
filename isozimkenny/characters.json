@@ -1516,7 +1516,7 @@
 	"meta": {
 		"app": "http://www.codeandweb.com/texturepacker",
 		"version": "1.0",
-		"image": "characters.png",
+		"image": "https://raw.githubusercontent.com/karelrosseel/isogames/master/isozimkenny/characters.png",
 		"format": "RGBA8888",
 		"size": {
 			"w": 900,
