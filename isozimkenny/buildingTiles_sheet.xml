@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <TextureAtlas imagePath="sheet.png">
 <SubTexture name="buildingTiles_000.png" x="596" y="85" width="99" height="85"/>
 <SubTexture name="buildingTiles_001.png" x="0" y="1270" width="133" height="127"/>
